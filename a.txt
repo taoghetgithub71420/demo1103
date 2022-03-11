@@ -6,3 +6,4 @@ task 1
 
 
 main pro build
+main no 1
